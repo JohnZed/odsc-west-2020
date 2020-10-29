@@ -1,6 +1,6 @@
 # odsc-west-2020
 
-Sample notebooks for ODSC West 2020 RAPDIS demos
+Sample notebooks for ODSC West 2020 RAPIDS demos
 
 Users should start with NYCTaxi-Tutorial-Blank.ipynb. If you get stuck, there is a worked version of the xamples in
 NYCTaxi-Tutorial-Worked.ipynb.
